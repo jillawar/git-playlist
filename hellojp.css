@@ -1,0 +1,13 @@
+body {
+
+    background-color: skyblue;
+}
+
+.hello {
+    margin: 0;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
